@@ -1,5 +1,5 @@
-98853cc1ed4b1d75c3d20b220cd3f46e *DESCRIPTION
-320a2287563ac7530a2ac624a6eaf53a *NAMESPACE
+e8ffb7a504c6e1f27b7e27c847e140b9 *DESCRIPTION
+152660dc4f735466ef769ce3a0b4e9bc *NAMESPACE
 fa16fd0c809742eadbbf324deb59f580 *R/CaPage.R
 bf2bb25dbda1a0da353a9738514e1379 *R/ClusterPage.R
 22e64ad5439a22b49aeed2e79d1e64b6 *R/CommonPage.R
@@ -14,9 +14,9 @@ c548071e3ecfaaea02b913d781fca816 *R/Export.R
 bc12914ffbb943e1c68be724c50c1766 *R/HJBiplot.R
 81bd668047997afeae3b7e19d8726838 *R/HJBiplotPage.R
 76fe6236d672bb5eaebee71562aec19d *R/Page.R
-399661ce4382f7d08a783ab0e7d70904 *R/PageGUI.R
+b3d5f61afb7a474eddf110e2b674efde *R/PageGUI.R
 b26ae8b14e84492a60b74d3b9dc794c2 *R/Save.R
-4ae31a6181be56ad5690bc093a1f2ba4 *R/TextMiningGUI.R
+e74bf565ae35a14dd708a1308dccf21c *R/TextMiningGUI.R
 baf89f5ab1b7eaaa722f7561585904f0 *R/TopicModelsPage.R
 548a71e51b9b27ebdbe9b1cf5c81f4c2 *R/WordCloudPage.R
 327b7c3a9e75b5845f8a4505c8675f4e *R/addScrollbars.R
@@ -30,7 +30,8 @@ ca912cbe35df9552c6c1b318a2c58c3c *R/put_label.R
 deee1b0f97b6f9b4a783c5f4fd597812 *R/theme_dark2.R
 196e8b02798274a0c70067cb8f9968dd *R/theme_white.R
 b769897dcfcf3ab5ce77e6913f01d2e9 *R/tmPalette.R
-0310ba6fea59a645b3a78f29dcb50945 *README.md
+d472a3305b9fd96c2f51bf000c4d55b0 *R/zzz.R
+5398f1db85ec7ee0711f6252a813e5f3 *README.md
 046c423553e96e2b8f620162b1355249 *data/chistes.RData
 26264d6a63f6fdb3513325031b1b63a0 *data/jockes.RData
 132c2091815af3458a260a8115f162a1 *inst/icons/lupa.png
