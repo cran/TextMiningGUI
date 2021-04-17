@@ -1,4 +1,4 @@
-e8ffb7a504c6e1f27b7e27c847e140b9 *DESCRIPTION
+261b5b9218c4978fb2cc1e9140f2da5c *DESCRIPTION
 152660dc4f735466ef769ce3a0b4e9bc *NAMESPACE
 fa16fd0c809742eadbbf324deb59f580 *R/CaPage.R
 bf2bb25dbda1a0da353a9738514e1379 *R/ClusterPage.R
@@ -16,14 +16,14 @@ bc12914ffbb943e1c68be724c50c1766 *R/HJBiplot.R
 76fe6236d672bb5eaebee71562aec19d *R/Page.R
 b3d5f61afb7a474eddf110e2b674efde *R/PageGUI.R
 b26ae8b14e84492a60b74d3b9dc794c2 *R/Save.R
-e74bf565ae35a14dd708a1308dccf21c *R/TextMiningGUI.R
+b3ddda4065394e68566e88071b8672ef *R/TextMiningGUI.R
 baf89f5ab1b7eaaa722f7561585904f0 *R/TopicModelsPage.R
 548a71e51b9b27ebdbe9b1cf5c81f4c2 *R/WordCloudPage.R
 327b7c3a9e75b5845f8a4505c8675f4e *R/addScrollbars.R
 c6dca5e5d9b82f01f1761f1c5a02e8d7 *R/as.data.frame.HJBiplot.R
 b1f15b5315751b0fe0b7cd89e535d4cb *R/as.data.frame.ca.R
 52bf73bee5dcf86c0475df1848a1d205 *R/charavalue.R
-eef78c20769d6f8a6435096f794ab1cb *R/console.R
+f4bc9769f4ddb69a17cb4d81477ae977 *R/console.R
 cba1987e680d8c2422587132ee96bffa *R/cooccPage.R
 d2823fb9fe302c5fa69fa1030464c0ec *R/print.DataTM.R
 ca912cbe35df9552c6c1b318a2c58c3c *R/put_label.R
